@@ -24,7 +24,7 @@ Currently a B.Tech student(First year) at IIIT Sri City.
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>I'm alive</li>
-  <li>Books, Anime</li>
+  <li>Likes Books, Anime</li>
   <li>Don't know more</li>
 </ul>
 
