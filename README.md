@@ -1,4 +1,4 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Mahtab Alam</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">Mahtab Alam</h1>
 
 
 
@@ -10,15 +10,15 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. 
+Currently a B.Tech student(First year) at IIIT Sri City. 
 
 </p>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
-  <li><strong>Instagram</strong>: <a href="https://instagram.com/abhijit.wav" style="color: #2980b9;">@i_mahtab_21</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/abhijiiitpatil" style="color: #2980b9;">@idk</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/abhijit-23blaze" style="color: #2980b9;">@wrath-glacier</a></li>
+  <li><strong>Instagram</strong>: <a href="https://instagram.com/i_mahtab_21" style="color: #2980b9;">@i_mahtab_21</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/mahtab-alam-63744a323" style="color: #2980b9;">@Mahtab Alam</a></li>
+  <li><strong>GitHub</strong>: <a href="https://github.com/wrath-glacier" style="color: #2980b9;">@wrath-glacier</a></li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
@@ -30,7 +30,7 @@ Currently a B.Tech student at IIIT Sri City.
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Feel free to drop me an email at <a href="mailto:your.email@example.com" style="color: #2980b9;">mehtab4756@gmail.com</a> or reach out on social media.
+Feel free to drop me an email at <a href="mailto:mahtab.a24@iiits.in" style="color: #2980b9;">mahtab.a24@iiits.in</a> or reach out on social media.
 </p>
 
 <p style="font-family: Georgia, serif; text-align: center; color: #34495e;">Thanks for visiting!</p>
